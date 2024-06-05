@@ -1,0 +1,12 @@
+
+div{
+ border: black 1px;
+}
+
+h1{
+    background-color:turquoise;
+}
+
+*{
+    display: block;
+}
